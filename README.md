@@ -1,4 +1,4 @@
-Desktop application
-Modular algorithms implemented for final exam on faculty
-User-friendly application
-Python+AppJar
+Desktop application.
+Modular algorithms implemented for final exam-Cryptography.
+User-friendly application.
+Python+AppJar.
